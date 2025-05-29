@@ -1,4 +1,4 @@
-package com.navodita.control_statement;
+package com.navodita.control_statement.conditional_statement;
 
 public class IfDemo2 {
     public static void main(String[] args) {
@@ -10,5 +10,5 @@ public class IfDemo2 {
         }
         System.out.println(no2);
     }
-    }
+}
 
