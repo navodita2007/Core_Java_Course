@@ -1,4 +1,4 @@
-package com.navodita.control_statement.star_pattern_programs;
+package com.navodita.control_statement.nested_for_loop_programs;
 
 public class NestedForLoop3 {
     public static void main(String[] args) {
