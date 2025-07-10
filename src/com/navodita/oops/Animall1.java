@@ -1,6 +1,6 @@
 package com.navodita.oops;
 
-// " Not-Good Programming Style "
+// Not-Good Programming Style because separate class for main method is not created.
 class Birds {
     void fly() {
         System.out.println("I am flying");

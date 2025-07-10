@@ -32,3 +32,4 @@ public class Animal {
         // We can create as many objects as we want for a single class.
     }
 }
+// Use of Constructor :- Constructors are used to initialize an object but not for object creation.

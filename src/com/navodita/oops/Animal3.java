@@ -1,5 +1,6 @@
 package com.navodita.oops;
 
+// """""  DEFAULT CONSTRUCTOR  """""
 public class Animal3 {
     int age;
     String color;
@@ -32,3 +33,7 @@ public class Animal3 {
         // We can create as many objects as we want for a single class.
     }
 }
+
+// Use of Constructor :- Constructors are used to initialize an object but not for object creation.
+// Default values( int -> 0 , string -> null ) of instance variable is initialized by default constructor which is automatically created by compiler.
+// Default constructors are used to provide the default values to the objects like 0, null etc. depending on the type.
