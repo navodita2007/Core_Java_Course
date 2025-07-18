@@ -22,3 +22,4 @@ class InheritanceMain {
         blue.rainbow();
     }
 }
+// Single inheritance program.

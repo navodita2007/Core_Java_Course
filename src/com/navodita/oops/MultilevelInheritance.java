@@ -36,3 +36,4 @@ public class MultilevelInheritance {
         ob3.show1();
     }
 }
+// Code regarding multi-level inheritance
