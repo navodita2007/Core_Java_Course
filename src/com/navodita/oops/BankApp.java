@@ -1,6 +1,9 @@
 package com.navodita.oops;
 
 //  ********* USES-A Relationship (Dependence) **********
+/* Definition -: In the USES-A relationship, a method of one class is using an object of another class. For e.g., Transaction Uses Account to
+deposit() the amount.
+**/
 
 class Account {
     String accno;
