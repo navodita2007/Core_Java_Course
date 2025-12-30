@@ -1,4 +1,4 @@
-package com.navodita.oops;
+package com.navodita.oops.polymorphism.method_overloading;
 
 // With differnt sequence of parameters
 class Picture {

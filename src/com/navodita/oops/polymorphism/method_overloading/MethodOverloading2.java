@@ -1,4 +1,4 @@
-package com.navodita.oops;
+package com.navodita.oops.polymorphism.method_overloading;
 
 // With different types (different data types) of parameters
 class Frame3 {

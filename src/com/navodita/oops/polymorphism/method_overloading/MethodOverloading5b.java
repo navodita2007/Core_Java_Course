@@ -1,4 +1,4 @@
-package com.navodita.oops;
+package com.navodita.oops.polymorphism.method_overloading;
 
 class Picture3 {
     void display(char a) {
